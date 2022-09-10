@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ParulRooprai
+- 👀 I’m interested in Data/Business Analyst position
+- 🌱 I’m currently pursuing MCA (specialization in ML) from Amity University
+- Technologies I work on- SQL, Python, Tableau, Excel- VBA,Macroas
+- 💞️ My Skype ID- live:.cid.9779779f55aef8c8
+- 📫 Contact details- parul.rooprai009@gmail.com
